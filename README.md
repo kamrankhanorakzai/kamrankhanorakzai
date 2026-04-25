@@ -75,7 +75,7 @@ I have built projects that simulate real industry environments, focusing on **sc
 
 ---
 
-## 🔄 What I’m Currently Working On
+## * What I’m Currently Working On
 
 * Building scalable ML systems for **multi-user environments**
 * Automating **model retraining and deployment pipelines**
