@@ -1,13 +1,13 @@
 #  Hi, I'm Kamran Khan Orakzai
 
-🎓 Data Science Student |  Data Analyst |  MLOps Enthusiast
+🎓 Data Scientist |  Data Analyst |  MLOps Enthusiast
  Passionate about building end-to-end machine learning systems and solving real-world problems
 
 ---
 
 ##  * About Me
 
-I am a Data Science student with hands-on experience in **data analysis, machine learning, and MLOps pipelines**. I enjoy working on complete workflows — from **data collection and preprocessing to model deployment and monitoring**.
+I am a Data Scientist with hands-on experience in **data analysis, machine learning, and MLOps pipelines**. I enjoy working on complete workflows — from **data collection and preprocessing to model deployment and monitoring**.
 
 I have built projects that simulate real industry environments, focusing on **scalability, automation, and production-ready ML systems**.
 
