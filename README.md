@@ -1,117 +1,133 @@
-#  Hi, I'm Kamran Khan Orakzai
+<div align="center">
 
-🎓 Data Scientist |  Data Analyst |  MLOps Enthusiast
- Passionate about building end-to-end machine learning systems and solving real-world problems
+# Kamran Khan Orakzai
+### AI/ML Engineer · MLOps · Data Science · Computer Vision
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamrankhanorakzai)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamrankhanorakzai)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-##  * About Me
-
-I am a Data Scientist with hands-on experience in **data analysis, machine learning, and MLOps pipelines**. I enjoy working on complete workflows — from **data collection and preprocessing to model deployment and monitoring**.
-
-I have built projects that simulate real industry environments, focusing on **scalability, automation, and production-ready ML systems**.
+</div>
 
 ---
 
-## * Skills & Technologies
+## About Me
 
-### * Data Analysis
+I'm an AI/ML Engineer with a strong foundation in end-to-end machine learning systems — from raw data collection and model training to production deployment on cloud infrastructure. I build things that work in the real world: MLOps pipelines with experiment tracking, computer vision systems with live inference, AI-powered automation tools, and data dashboards that drive actual decisions.
 
-* Pandas, NumPy,excel
-* Data Visualization (Powerbi,Matplotlib, Seaborn,plotly)
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis & Hypothesis Testing
-
-### * Machine Learning
-
-* Regression & Classification Models
-* Time Series Forecasting (ARIMA, SARIMA)
-* Model Evaluation (RMSE, MAE, R², MAPE)
-
-### * MLOps & Deployment
-
-* Docker & Docker Compose
-* CI/CD Pipelines (GitHub Actions)
-* MLflow (Model Tracking & Registry)
-* DVC (Data Version Control)
-* AWS (EC2, S3, RDS)
-* FastAPI (Model Serving APIs)
-
-### * Programming
-
-* Python
-* SQL 
-
+Currently based in Peshawar, Pakistan. Open to remote freelance projects, collaborations, and full-time opportunities.
 
 ---
 
-## * Featured Projects
+## 🔑 Core Competencies
 
-### * Solar Performance Monitoring System (End-to-End MLOps)
-
-* Built a complete ML pipeline from **data scraping to deployment**
-* Implemented **data versioning using DVC**
-* Used **MLflow for experiment tracking and model registry**
-* Deployed model using **Docker on AWS EC2**
-* Designed system for **real-time solar energy forecasting**
-
----
-
-
-### * Power BI Sales Dashboard
-
-* Developed an interactive dashboard using **Power BI**
-* Visualized KPIs like **revenue, profit, and sales trends**
-* Enabled **business decision-making through dynamic filtering**
-* Created clean and professional **data storytelling visuals**
+| Domain | Technologies |
+|--------|-------------|
+| **Machine Learning & AI** | Scikit-learn, XGBoost, YOLOv4, LangChain, LangGraph, Transformers |
+| **MLOps & Deployment** | MLflow, DVC, FastAPI, Flask, Docker, AWS (EC2, S3, RDS/Postgres) |
+| **Data & Analytics** | Pandas, NumPy, Jupyter, Power BI, SQL |
+| **AI Agents & Automation** | LangChain, LangGraph, n8n, OpenAI API |
+| **Languages** | Python (primary), JavaScript, HTML/CSS |
 
 ---
 
-### * Suicide Bombing Data Analysis Project
+## 🚀 Featured Projects
 
-* Performed data analysis on a **suicide bombing dataset**
-* Explored patterns, trends, and key factors influencing incidents
-* Used data cleaning and visualization techniques to extract meaningful insights
+### 🔆 [SolarIQ System](https://github.com/kamrankhanorakzai/SolarIQ-System)
+**End-to-end MLOps platform for solar power plant monitoring and forecasting**
 
----
+Full production-grade pipeline: data versioning with DVC, experiment tracking with MLflow, REST API via FastAPI, and cloud deployment on AWS (EC2 + PostgreSQL + S3). Forecasts KWh output and predicts equipment faults using real-world sensor data.
 
-## * What I’m Currently Working On
-
-* Building scalable ML systems for **multi-user environments**
-* Automating **model retraining and deployment pipelines**
-* Improving skills in **cloud-based MLOps architecture**
+`Python` `MLflow` `DVC` `FastAPI` `AWS` `PostgreSQL`
 
 ---
 
-## * Career Goal
+### 🚗 [Automobile ML Recommender System](https://github.com/kamrankhanorakzai/automobile-ML-recommender-system)
+**Complete MLOps pipeline from web scraping to production deployment** ⭐ 3 stars · 1 fork
 
-To become a **Data Scientist / MLOps Engineer**, working on production-level machine learning systems that create real impact.
+Covers the full data science lifecycle: automated web scraping for data collection, feature engineering, model training, and production-ready deployment. One of the most-starred projects on the profile.
 
----
-
-## 📫 Connect With Me
-
-* Email: [turababu980@gmail.com]
-* LinkedIn: (www.linkedin.com/in/kamran-khan-orakzai-61463b232)
-* GitHub: https://github.com/kamrankhanorakzai
+`Python` `Jupyter` `Scikit-learn` `Web Scraping` `MLOps`
 
 ---
 
-## ⚡ Fun Fact
+### 📹 [Live CCTV Camera Tracking (Deep Learning)](https://github.com/kamrankhanorakzai/Live-Cctv-Camera-Tracking-Deep-Learning-)
+**Real-time object detection and tracking system**
 
-I enjoy turning complex data problems into simple, automated solutions 
+RTSP video capture, YOLOv4-tiny inference, MJPEG browser streaming for live monitoring, and automated Google Drive backup for captured frames. Production-tested on real surveillance feeds.
+
+`Python` `YOLOv4` `OpenCV` `RTSP` `Google Drive API`
+
 ---
-##  My GitHub Stats
 
+### 🤖 [Hotel Chat Assistant](https://github.com/kamrankhanorakzai/hotel-chat-assistant)
+**AI-powered front desk assistant with live deployment**
 
+Embeddable chat widget backed by n8n automation workflows for dynamic hotel data retrieval — rooms, rates, amenities, and booking support. Deployed via GitHub Pages.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamrankhanorakzai\&show_icons=true\&theme=default)
+`HTML` `JavaScript` `n8n` `AI Automation` · [**Live Demo →**](https://kamrankhanorakzai.github.io/hotel-chat-assistant/)
 
+---
 
+### 💰 [Automated Financial Data Processing + Power BI Dashboard](https://github.com/kamrankhanorakzai/Automated-Financial-Data-Processing-Power-BI-Dashboard)
+**Eliminated manual reporting bottlenecks for financial operations**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankhanorakzai\&layout=compact\&theme=default)
+Built to solve a real-world workflow problem: multiple daily files, tight deadlines, high error rates. Automated the entire ETL pipeline and surfaced results in interactive Power BI dashboards.
 
+`Python` `Power BI` `ETL` `Automation`
 
+---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kamrankhanorakzai\&theme=default)
+### 🧠 [AI Agents with LangChain & LangGraph](https://github.com/kamrankhanorakzai/AI_agent_using_langchain)
+**Practical agentic AI implementations**
 
+Two repos exploring autonomous AI agent architectures — ReAct-style agents with LangChain, and stateful multi-step agents using LangGraph. Includes tool-use, memory, and conditional branching.
+
+`Python` `LangChain` `LangGraph` `OpenAI`
+
+---
+
+### 📊 [FIFA Power BI Analysis](https://github.com/kamrankhanorakzai/Fifa_powerbi_project)
+**Interactive sports analytics dashboard**
+
+Historical FIFA match data analyzed for performance trends, probabilistic match outcomes, and tournament insights. Showcases end-to-end BI skills from raw data to publishable dashboard.
+
+`Power BI` `Data Analysis` `Sports Analytics`
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Kamran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamrankhanorakzai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankhanorakzai&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Background
+
+- **Computer Science** student with focus on AI/ML applications
+- Completed structured ML coursework (CampusX program under Nitish Singh)
+- Hands-on experience with security concepts — built a cybersecurity awareness demo (phishing + camera permission abuse simulation using Flask + Docker + AWS S3) for a university Information Security project
+- Consistent learner: repos span from 2023 through active development in mid-2026
+
+---
+
+## 💼 Open For
+
+- **Freelance projects** — ML model development, MLOps pipelines, data dashboards, AI chatbots/agents
+- **Remote contracts** — Python backend, AI/ML engineering, automation
+- **Full-time roles** — AI/ML Engineer, Data Scientist, MLOps Engineer
+
+---
+
+<div align="center">
+
+*Let's build something intelligent together.*
+
+[![Email Me](https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
