@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamrankhanorakzai)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamrankhanorakzai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamran.orakzai@outlook.com)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 I'm an AI/ML Engineer with a strong foundation in end-to-end machine learning systems — from raw data collection and model training to production deployment on cloud infrastructure. I build things that work in the real world: MLOps pipelines with experiment tracking, computer vision systems with live inference, AI-powered automation tools, and data dashboards that drive actual decisions.
 
-Currently based in Peshawar, Pakistan. Open to remote freelance projects, collaborations, and full-time opportunities.
+ Open to remote freelance projects, collaborations, and full-time opportunities.
 
 ---
 
