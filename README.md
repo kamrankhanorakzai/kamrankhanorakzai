@@ -109,9 +109,8 @@ Historical FIFA match data analyzed for performance trends, probabilistic match 
 
 ## 🎓 Background
 
-- **Computer Science** student with focus on AI/ML applications
-- Completed structured ML coursework (CampusX program under Nitish Singh)
-- Hands-on experience with security concepts — built a cybersecurity awareness demo (phishing + camera permission abuse simulation using Flask + Docker + AWS S3) for a university Information Security project
+- **Data Science** student with focus on AI/ML applications
+- **founder** Ai Consultix
 - Consistent learner: repos span from 2023 through active development in mid-2026
 
 ---
